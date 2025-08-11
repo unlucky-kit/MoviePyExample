@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But don't ignore these files
+!README.md
+!requirements.txt
+!clipcut.py
+!.gitignore
