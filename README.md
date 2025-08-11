@@ -1,4 +1,4 @@
-## ClipCut
+## MoviePyExample
 
 Concatenate two videos into one and overlay text slightly below the center using MoviePy and Pillow (no ImageMagick required).
 
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 Basic concatenation with overlaid text slightly below center:
 
 ```bash
-python clipcut.py \
+python main.py \
   --input1 path/to/first.mp4 \
   --input2 path/to/second.mp4 \
   --text "Your overlay text" \
